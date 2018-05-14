@@ -11,5 +11,5 @@ Optimizer: Adadelta
 ### Model
 Trained for 500 epochs with a voxel resolution of 32 and augmentation of models:
 ```
-Test loss 2.8196212050666833
-Test accuracy: 0.7845421393841167
+Test loss 0.8196212050666833
+Test accuracy: 0.8745421393841167
